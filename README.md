@@ -1,2 +1,2 @@
 # awynn-wynnselectrical
-This repository contains files for Wynns Electrical websire
+This repository contains files for Wynns Electrical website
